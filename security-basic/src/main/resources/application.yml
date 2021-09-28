@@ -3,6 +3,5 @@ server:
 spring:
   application:
     name: security-basic
-security:
-  user:
+
 

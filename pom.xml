@@ -44,6 +44,7 @@
     <modules>
         <module>security-basic</module>
         <module>form-security</module>
+        <module>session-management</module>
     </modules>
 
 </project>

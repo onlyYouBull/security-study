@@ -10,4 +10,9 @@ public class TestController {
         public  String hello(){
             return  "hello ";
         }
+
+        @GetMapping("/do")
+        public  String do_1(){
+                return  "dododo";
+        }
 }

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="form-security" />
         <module name="security-basic" />
+        <module name="session-management" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
